@@ -1,7 +1,7 @@
 # Finfini SDK
 
-[![GoDoc](https://pkg.go.dev/badge/github.com/finfini/sdk?status.svg)](https://pkg.go.dev/github.com/finfini/sdk?tab=doc)
-[![Release](https://img.shields.io/github/release/finfini/sdk.svg?style=flat-square)](https://github.com/finfini/sdk/releases)
+[![GoDoc](https://pkg.go.dev/badge/github.com/finfini/go-sdk?status.svg)](https://pkg.go.dev/github.com/finfini/go-sdk?tab=doc)
+[![Release](https://img.shields.io/github/release/finfini/go-sdk.svg?style=flat-square)](https://github.com/finfini/go-sdk/releases)
 
 an SDK for integrating to Finfini' services.
 
