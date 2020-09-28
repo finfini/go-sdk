@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/finfini/sdk/ekyc"
+	"github.com/finfini/go-sdk/ekyc"
 )
 
 func main() {

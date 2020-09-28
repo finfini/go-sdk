@@ -1,6 +1,6 @@
 .PHONY: test
 test: ## test package
-	@go test  -bench -v -run '' -coverprofile=fmtcoverage.html github.com/finfini/sdk/...
+	@go test  -bench -v -run '' -coverprofile=fmtcoverage.html github.com/finfini/go-sdk/...
 
 .PHONY: show-coverage
 show-coverage: ## show test coverage in browser

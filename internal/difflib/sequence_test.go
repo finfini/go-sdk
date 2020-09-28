@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/finfini/sdk/internal/difflib/tester"
+	"github.com/finfini/go-sdk/internal/difflib/tester"
 )
 
 func assertAlmostEqual(t *testing.T, a, b float64, places int) {

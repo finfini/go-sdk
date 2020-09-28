@@ -1,3 +1,3 @@
-module github.com/finfini/sdk
+module github.com/finfini/go-sdk
 
 go 1.13

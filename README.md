@@ -19,7 +19,7 @@ go get github.com/finfini/go-sdk
 package main
 
 import (
-    "github.com/finfini/sdk/ekyc"
+    "github.com/finfini/go-sdk/ekyc"
     "fmt"
 )
 

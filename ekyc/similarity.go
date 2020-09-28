@@ -1,7 +1,7 @@
 package ekyc
 
 import (
-	"github.com/finfini/sdk/internal/difflib"
+	"github.com/finfini/go-sdk/internal/difflib"
 )
 
 // Similarity contains data resulted from string similarity calculations
